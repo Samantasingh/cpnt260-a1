@@ -1,0 +1,48 @@
+body {
+  padding-top: 16px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-bottom: 16px;
+  background-color: peachpuff;
+}
+h1 {
+  word-spacing: 1ch;
+  font-size: 2rem;
+  text-align: center;
+  font-family: monospace;
+  color: brown;
+  padding-bottom: 16px;
+}
+ul {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+  text-align: initial;
+  color: red;
+}
+
+h2 {
+  font-family: monospace;
+  color: brown;
+  text-align: initial;
+}
+p {
+  font-size: 20px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  line-height: 1.5;
+  color: red;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 300px;
+  width: 400px;
+  padding-top: 16px;
+}
+
+div {
+  text-align: center;
+}
